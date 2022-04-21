@@ -1,2 +1,2 @@
 # iimg
-pic and pics set
+pictures set private 
